@@ -21,6 +21,10 @@ document.addEventListener('DOMContentLoaded', function () {
         event.preventDefault();
         window.location.href = 'https://discord.gg/YccapeYbmH'; // Chuyển hướng đến Discord
     });
+    document.getElementById('TIKTOK').addEventListener('click', function (event) {
+        event.preventDefault();
+        window.location.href = 'https://www.tiktok.com/@quangdev_quangdev'; // Chuyển hướng đến Facebook
+    });
     document.getElementById('PROJECT').addEventListener('click', function (event) {
         event.preventDefault();
         window.location.href = './PROJECT/project.html'; // Chuyển hướng đến Facebook
