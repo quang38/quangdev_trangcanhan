@@ -129,6 +129,7 @@ footer {
 #FACEBOOK:hover,
 #PLAYDUO:hover,
 #DISCORD:hover,
+#TIKTOK:hover,
 #PROJECT:hover {
     width: 350px;
     height: 40px;
@@ -149,6 +150,9 @@ footer {
 
 #DISCORD:hover {
     background: #5865F2;
+}
+#TIKTOK:hover{
+    background: #000000;
 }
 #PROJECT:hover{
     background: #d66f0e;
